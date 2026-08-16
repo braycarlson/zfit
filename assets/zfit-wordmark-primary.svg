@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.42 60" width="148.42" height="60" role="img" aria-label="zfit">
+  <defs><linearGradient id="ember" x1="0" y1="0" x2="0.83" y2="1"><stop offset="0" stop-color="#ff9d36"></stop><stop offset="1" stop-color="#c92e3b"></stop></linearGradient></defs>
+  
+  <rect width="60" height="60" fill="url(#ember)"></rect>
+  <text x="30" y="46.8" text-anchor="middle" fill="#ffffff" font-family="Chivo, &#39;Arial Black&#39;, &#39;Helvetica Neue&#39;, sans-serif" font-weight="900" font-size="48" letter-spacing="0.96">Z</text>
+  <text x="69" y="46.8" fill="#1a1a19" font-family="Chivo, &#39;Arial Black&#39;, &#39;Helvetica Neue&#39;, sans-serif" font-weight="900" font-size="48" letter-spacing="0.96">FIT</text>
+</svg>
